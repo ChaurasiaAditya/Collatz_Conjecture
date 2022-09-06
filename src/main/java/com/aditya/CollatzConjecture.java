@@ -6,6 +6,9 @@
 package com.aditya;
 
 public class CollatzConjecture {
+    public static void main(String[] args) {
+
+    }
     /**
      * This method returns the number of steps required to reach 1 from the given number.
      *
